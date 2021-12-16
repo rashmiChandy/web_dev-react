@@ -1,0 +1,76 @@
+.stepTypos {
+    text-align: center;
+    color: #999;
+  }
+
+  .stepDiv{
+        display: grid;
+        justify-content: center;
+        position: relative;
+        z-index: 5;
+  }
+
+  .stepForm{
+   position: relative;
+    height: auto;
+    padding: 1px;
+    width: 33rem;
+
+}
+
+/* .required::after {
+  content: "*";
+  color: red;
+} */
+
+.phoneNumber{
+    position: relative;
+     height: auto;
+     padding: 2px;
+     width: 33rem;
+ 
+ }
+
+.stepText{
+        width: 100%;
+        margin: 1rem;
+}
+
+
+
+.stepSelect {
+    
+    color: rgb(185, 185, 185);
+  }
+
+
+  .stepButton{
+      position:relative ;
+      justify-content: center;
+      z-index: 5;
+      background-color: black;
+      
+  }
+
+
+  .stepButtonClass{
+    text-align: center;
+  }
+  
+  .stepheader{
+
+   text-align: center;
+   background-color: black;
+   color: rgb(255, 200, 0);
+  }
+
+  .alert-custom{
+    background-color:rgb(247, 211, 81);
+    color:rgb(31, 30, 30)
+  }
+
+  /*   rgb(255,200,0);   */
+
+ .search-results{
+  color: black;
+ }

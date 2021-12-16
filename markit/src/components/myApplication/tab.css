@@ -1,0 +1,15 @@
+.tabStyle{
+    text-align: left;
+    color:black;
+}
+
+.tabStyle .MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #20232a !important;
+    flex-grow: 1,;
+}
+
+.tabStyle .MuiAccordionDetails-root {
+    display: block !important;
+    padding: 8px 16px 16px;
+}
