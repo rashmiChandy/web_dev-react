@@ -1,5 +1,5 @@
 # web_dev-react
-
+Deployed URL : https://dal-markit.herokuapp.com/#/
 ## Built With
 Libraries used: 
 * React-Bootstrap - React Components  
@@ -7,6 +7,9 @@ Libraries used:
 * Express - Backend API
 * Router - Backend API
 * Mongoose - Database
+
+## Technologies used
+React, NodeJS, ExpressJS, MongoDB
 
 MarkIT is a comprehensive employment management portal that supports academic institutions to appoint educational assistants for the courses delivered during an 
 academic term. 
